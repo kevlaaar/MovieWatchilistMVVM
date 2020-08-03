@@ -1,4 +1,4 @@
-package me.amplitudo.moviewatchlistmvvm.models
+package me.vuk.moviewatchlistmvvm.models
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName

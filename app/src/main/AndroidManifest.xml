@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.amplitudo.moviewatchlistmvvm">
+    package="me.vuk.moviewatchlistmvvm">
 
     <application
         android:allowBackup="true"
